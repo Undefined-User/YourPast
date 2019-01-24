@@ -1,15 +1,7 @@
 Copyright © 2001-2009  Saito Games
 
  SCREEN SHOTS
-
-
-
-
-
-
-
-
-
+ 
  OVERVIEW
 
 HOPMON is a 3D arcade action game. There are 45 levels in total and to complete each level, Hopmon will have to collect all the crystals and place them on the warp zone where the star symbol is printed.
