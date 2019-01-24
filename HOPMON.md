@@ -1,3 +1,8 @@
+https://www.pcgaming.ws/viewgame.php?game=hopmon
+Click Register then type HM-794-645
+to register
+----------------------------------------------------------------------------------------------------------------------------------------
+
 Copyright © 2001-2009  Saito Games
 
  SCREEN SHOTS
